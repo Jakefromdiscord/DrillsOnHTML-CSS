@@ -1,0 +1,62 @@
+.one {
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid black;
+    height: 10vw;
+    display: flex;
+    align-items: flex-end;
+}
+
+.squareone{
+    width: 50px;
+    height: 150px;
+    background-color: blue;
+    margin: 15px;
+}
+
+.squareTwo{
+    width: 150px;
+    height: 165px;
+    background-color: green;
+    margin: 15px 50px;
+}
+
+.circle{
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    background-color: skyblue;
+    margin: 10px;
+}
+
+
+.two{
+    margin-top: 20px;
+    padding: 25px;
+    border: 7px dotted black;
+}
+
+.divtwo{
+    height: 150px;
+    width: 100%;
+    background-color: wheat;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.205);
+}
+
+.three{
+    border: 2px solid blanchedalmond;
+    margin: 25px auto;
+    box-sizing: border-box;
+    width: 50%;
+    margin-top: 20px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.267);
+}
+
+#para {
+    text-align: center;
+    padding: 70px 0;
+    color: firebrick;
+    font-size: 300%;
+}
