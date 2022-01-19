@@ -1,0 +1,39 @@
+.header{
+    background-color: grey;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+ 
+.square{
+    width: 75px;
+    height: 75px;
+    background-color: lightblue;
+    margin: 15px 15px;
+}
+
+.blue{
+    width: 100%;
+    height: 100px;
+    background-color: steelblue;
+}
+
+.green{
+    width: 100%;
+    height: 100px;
+    background-color: lightgreen;
+}
+
+.puke{
+    width: 100%;
+    height: 100px;
+    background-color: olive;
+}
+
+.gold{
+    width: 100%;
+    height: 100px;
+    background-color: gold;
+}
+
